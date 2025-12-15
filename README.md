@@ -23,16 +23,25 @@
 
 5. Project Workflow
    
-- Requirement gathering and business understanding
-- Data walkthrough and source analysis
-- Data connection to Power BI
-- Data cleaning and quality checks using Power Query
-- Data modeling and relationship design
-- Data processing and transformation
-- DAX calculations for KPIs and measures
-- Visual development and formatting
-- Dashboard and report development
-- Insights generation and analysis
+-🧩 Requirement Gathering & Business Understanding 
+               ⬇️
+- 🔍 Data Walkthrough & Source Analysis 
+               ⬇️
+- 🔗 Data Connection 
+               ⬇️
+- 🧹 Data Cleaning & Quality Checks
+               ⬇️
+- 🗂️ Data Modeling 
+               ⬇️
+- ⚙️ Data Processing & Transformation 
+               ⬇️
+- 🧮 DAX Calculations 
+               ⬇️
+- 🎨 Visual Development & Formatting 
+               ⬇️
+- 📊 Dashboard & Report Development 
+               ⬇️
+- 💡 Insights Generation & Analysis 
   
 6. Dataset Description
 - Qualitative Fields: Item Fat Content | Item Identifier | Item Type | Outlet Identifier | Outlet Establishment Year | Outlet Location Type | Outlet Size | Outlet Type
@@ -40,10 +49,10 @@
 
 7. KPIs Tracked
 
-- Total Sales – Overall revenue generated
-- Average Sales – Average revenue per transaction
-- Number of Items Sold – Total count of items sold
-- Average Rating – Customer satisfaction indicator
+- 💰 Total Sales – Overall revenue generated
+- 📊 Average Sales – Average revenue per transaction
+- 📦 Number of Items Sold – Total count of items sold
+- ⭐ Average Rating – Customer satisfaction indicator
 
 8. Visual Analysis
 
