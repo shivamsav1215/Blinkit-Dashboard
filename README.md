@@ -23,24 +23,15 @@
 
 5. Project Workflow
    
--🧩 Requirement Gathering & Business Understanding 
-               ⬇️
+- 🧩 Requirement Gathering & Business Understanding 
 - 🔍 Data Walkthrough & Source Analysis 
-               ⬇️
 - 🔗 Data Connection 
-               ⬇️
 - 🧹 Data Cleaning & Quality Checks
-               ⬇️
 - 🗂️ Data Modeling 
-               ⬇️
 - ⚙️ Data Processing & Transformation 
-               ⬇️
 - 🧮 DAX Calculations 
-               ⬇️
 - 🎨 Visual Development & Formatting 
-               ⬇️
 - 📊 Dashboard & Report Development 
-               ⬇️
 - 💡 Insights Generation & Analysis 
   
 6. Dataset Description
